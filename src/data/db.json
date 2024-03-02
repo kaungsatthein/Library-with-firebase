@@ -1,0 +1,43 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Eloquent javascript",
+      "description": "Best JS book",
+      "categories": [
+        "Javascript",
+        "Programming"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Laravel from scratch",
+      "description": "Best PHP framework book",
+      "categories": [
+        "PHP",
+        "Programming",
+        "Laravel"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "React Basic",
+      "description": "Best JS Library book",
+      "categories": [
+        "React",
+        "Programming",
+        "Javascript"
+      ]
+    },
+    {
+      "id": "28b5",
+      "title": "React Advance",
+      "description": "To learn react professional",
+      "categories": [
+        "context",
+        "redux toolkit",
+        "react"
+      ]
+    }
+  ]
+}
